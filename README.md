@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+-  Im from Colombia, i love technology and id like to be the best programmer >D
+-  Actually im studyng in SENA, an important study center in Colombia.
+-  My main knowledge is Laravel, Tailwinds css and Vue Js.
+-  Feel free to talk with me.
+
 <!--
 **Cotopaco1/Cotopaco1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
