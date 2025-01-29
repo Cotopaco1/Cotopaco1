@@ -1,15 +1,21 @@
-## Hi there 👋
-
--  Im from Colombia, i love technology and id like to be the best programmer >D
+# Hi there 👋
+-  Full stack developer with 1+ years programming
+-  Im from Colombia 🇨🇴
 -  Actually im studyng in SENA, an important study center in Colombia.
--  My main knowledge is Laravel, Tailwinds css and Vue Js.
 -  Feel free to talk with me.
--  The following technologies are handle by me:
-## Tecnologias Front-End
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,js,tailwind,sass,css,html" />
-  </a>
-</p>
+# *The following technologies are handle by me:*
 
-![Tecnologias](https://github.com/user-attachments/assets/67057884-dcbb-401b-bada-f817080fde88)
+## Front-End
+[![My Skills](https://skillicons.dev/icons?i=vue,js,tailwind,sass,css,html)](https://skillicons.dev)
+
+## Back-end
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,mysql,sqlite,postgres,)](https://skillicons.dev)
+
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,git,vscode,postman,powershell,linux,vite,gulp,npm)](https://skillicons.dev)
+
+## Contact me
+
+✉️ Email: [sss.sergiosilvasanchez@gmail.com](mailto:sss.sergiosilvasanchez@gmail.com)
+
+🔗 LinkedIn: [Sergio Silva](https://www.linkedin.com/in/sergio-silva-sanchez-2556a9244/)
