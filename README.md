@@ -6,13 +6,13 @@
 # *The following technologies are handle by me:*
 
 ## Front-End
-[![My Skills](https://skillicons.dev/icons?i=vue,js,tailwind,sass,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,js,ts,tailwind,sass,css,html)](https://skillicons.dev)
 
 ## Back-end
 [![My Skills](https://skillicons.dev/icons?i=laravel,php,mysql,sqlite,postgres,)](https://skillicons.dev)
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,git,vscode,postman,powershell,linux,vite,gulp,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,vscode,postman,powershell,linux,vite,gulp,npm,figma)](https://skillicons.dev)
 
 ## Contact me
 
