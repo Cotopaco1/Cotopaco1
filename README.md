@@ -1,5 +1,5 @@
 # Hi there 👋
--  Full stack developer with 1+ years programming
+-  Full stack developer with 2+ years programming
 -  Im from Colombia 🇨🇴
 -  Actually im studyng in SENA, an important study center in Colombia.
 -  Feel free to talk with me.
